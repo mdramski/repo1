@@ -1,2 +1,8 @@
+OK
+task2
+task2
 not ok - na masterze
 zmiana do konfliktu na masterze
+OK - na task2
+task2
+task2
