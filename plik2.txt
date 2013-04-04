@@ -1,2 +1,2 @@
-not ok
+not ok - na masterze
 zmiana do konfliktu na masterze
