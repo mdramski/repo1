@@ -1,0 +1,3 @@
+plik 1 cw 13
+modified
+zmiana na branchu master
